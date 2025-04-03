@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-[![Desktop](images/four-card-feature-desktop.png){ width=400px }](images/four-card-feature-desktop.png)
-[![Mobile](images/four-card-feature-mobile.png){ height=400px }](images/four-card-feature-mobile.png)
+![Desktop](images/four-card-feature-desktop.png)
+![Mobile](images/four-card-feature-mobile.png)
 
 ### Links
 
