@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](images/four-card-feature-desktop.png)
-![Mobile](images/four-card-feature-mobile.png)
+[![Desktop](images/four-card-feature-desktop.png){ width=400px }](images/four-card-feature-desktop.png)
+[![Mobile](images/four-card-feature-mobile.png){ height=400px }](images/four-card-feature-mobile.png)
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/imvan2/four-card-feature)
+- Live Site URL: [Live](https://imvan2.github.io/four-card-feature/)
 
 ## My process
 
